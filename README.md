@@ -16,7 +16,7 @@ To facilitate binary classification, I employed the relu activation function for
 
 During the training phase, I trained the model for 100 epochs and obtained an accuracy score of approximately 74% for the training data and 72.9% for the testing data. There were no discernible signs of overfitting or underfitting observed.
 
-# Optimization attempts
+## Optimization attempts
 In my final optimization attempt, I made additional adjustments to improve the model's performance. Despite these efforts, the final optimization attempt resulted in an accuracy score of approximately 72.8%. Unfortunately, I was not able to achieve the desired goal of a 75% accuracy score even after several attempts to optimize the model.
 
 # Summary
